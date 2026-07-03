@@ -2,6 +2,7 @@
 
 ## About me 
 Name: Serena Lim
+
 Major: Computer Science
 
 ## Skills
