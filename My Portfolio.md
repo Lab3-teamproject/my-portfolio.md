@@ -8,9 +8,9 @@ Name: Serena Lim
 Major: Computer Science
 
 ## Skills
-- Programming: C++, Javascript
-- Git: Advanced
-- Database: SQL
+- Programming: python, Java
+- Git: Intermediate
+- Database: HTML, CSS
 
 ## Projects
 - Project 1: TBD
