@@ -1,11 +1,8 @@
 ## Skills
 
-- Programming: C++, JavaScript
+- Programming: C++, JavaScript, Python, Java
 - Git: Advanced
 - Database: SQL
-
-  ## Skills
-- Programming: Python, Java
-- Git: Intermediate
 - Web Development: HTML, CSS
-  desktop-updates
+ 
+
